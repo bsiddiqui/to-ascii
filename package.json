@@ -1,0 +1,29 @@
+{
+  "name": "to-ascii",
+  "version": "0.0.0",
+  "description": "Convert a string to ascii",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsiddiqui/to-ascii.git"
+  },
+  "keywords": [
+    "ascii",
+    "string"
+  ],
+  "author": "Basil Siddiqui <basil.siddiqui@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsiddiqui/to-ascii/issues"
+  },
+  "homepage": "https://github.com/bsiddiqui/to-ascii#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "standard": "^5.2.2",
+    "tape": "^4.2.0"
+  }
+}

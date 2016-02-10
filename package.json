@@ -1,6 +1,6 @@
 {
   "name": "to-ascii",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert a string to ascii",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,7 @@
     "url": "https://github.com/bsiddiqui/to-ascii/issues"
   },
   "homepage": "https://github.com/bsiddiqui/to-ascii#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "standard": "^5.2.2",
     "tape": "^4.2.0"
